@@ -10,4 +10,4 @@ J'ai créé ce projet en suivant un tutoriel, je m'en servirais pour de futurs p
 Ouvrez simplement le fichier HTML dans votre navigateur.
 *Just open the HTML file in your browser.* 
 
-(https://github.com/lucasmantoani/Stylish_title/blob/master/hello.png)
+![](https://github.com/lucasmantoani/Stylish_title/blob/master/hello.png)
